@@ -3,3 +3,9 @@ def click(str):
     return
 
 click(str)
+
+def Welcome(str):
+    print("New screen")
+    return
+
+Welcome(str)
